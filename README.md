@@ -24,6 +24,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-> Enter page `src/app/page.tsx`
+## Starter
 
-> Enter components `src/components/Welcome.tsx`
+- Enter page `src/app/page.tsx`
+
+- Enter components `src/components/Welcome.tsx`
