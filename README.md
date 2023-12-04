@@ -10,7 +10,18 @@ This project is a template set up with [Next.js](https://nextjs.org/) and [Radix
 
 ## Getting Started
 
-First, run the development server:
+- First, install the node_modules
+
+```bash
+npm run install
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+- Secon, run the development server
 
 ```bash
 npm run dev
@@ -22,9 +33,9 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Third, open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Starter
+## Starter Pages
 
 - page `src/app/page.tsx`
 
