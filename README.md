@@ -26,6 +26,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Starter
 
-- Enter page `src/app/page.tsx`
+- page `src/app/page.tsx`
 
-- Enter components `src/components/Welcome.tsx`
+- components `src/components/Welcome.tsx`
